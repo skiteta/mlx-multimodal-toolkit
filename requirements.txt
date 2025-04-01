@@ -1,0 +1,7 @@
+mlx-lm
+mlx-vlm
+mlx-whisper
+mlx-audio
+torch
+torchvision
+transformers
